@@ -1,0 +1,63 @@
+nav{
+    background-color: blanchedalmond;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    border: 3px solid goldenrod;
+}
+nav ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li a{
+    padding: 10px;
+    text-decoration: wavy;
+    color: goldenrod;
+    font-size: large; 
+}
+nav ul li a:hover{
+    background-color: gold;
+}
+header{
+    margin-top: 55px;
+    background-color: blanchedalmond;
+    color: goldenrod;
+    border: 3px solid goldenrod;
+}
+footer{
+    background-color: blanchedalmond;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    border: 3px solid goldenrod;
+    text-align: center;
+    color: goldenrod;
+}
+.books{
+    background-color: blanchedalmond;
+    display: flex;
+    border: 3px solid goldenrod;
+}
+#rrrr{
+    background-color: blanchedalmond;
+    margin-bottom: 0;
+    text-align: center;
+    border: 3px solid goldenrod;
+}
+.book{
+    background-color: blanchedalmond;
+    margin-bottom: 20px;
+    border: 3px solid goldenrod;
+    padding: 20px;
+}
+div p a:hover{
+    background-color: gold;
+}
+#mail a:hover{
+    background-color: gold;
+}
+#fantasy li{
+    list-style-type:circle;
+}
